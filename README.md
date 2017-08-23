@@ -2,6 +2,8 @@
 
 ## TCC-SIAE
 All documentation, supporting material and code, from the completion project of **Analysis and Development of Systems**.
+Produced by the students of **Faculdades Camões**:
+Anderson Pereira, Diego Fantini e Gabriel Henrique.
 
 ### Supporting Material
 
