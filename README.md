@@ -7,7 +7,9 @@ All documentation, supporting material and code, from the completion project of 
 
 ###### Java™ Platform, Standard Edition 6 - API Specification
 Java documentation, including varioys APIs used in this project.
+
 [Link](http://docs.oracle.com/javase/6/docs/api/)
+
 Link Uncovered: http://docs.oracle.com/javase/6/docs/api/
 
 
@@ -22,7 +24,9 @@ Anderson Pereira, Diego Fantini e Gabriel Henrique.
 
 ###### Java™ Platform, Standard Edition 6 - API Specification
 Documentação do Java, incluindo várias API's utilizadas neste projeto.
+
 [Link](http://docs.oracle.com/javase/6/docs/api/)
+
 Link Descoberto: http://docs.oracle.com/javase/6/docs/api/
 
 
