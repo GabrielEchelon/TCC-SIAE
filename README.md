@@ -14,6 +14,12 @@ Java documentation, including varioys APIs used in this project.
 
 Link Uncovered: http://docs.oracle.com/javase/6/docs/api/
 
+###### Java / Database Connection Handle
+Caelum's handbook on Java connection to the Database.
+
+[Link] (https://www.caelum.com.br/apostila-java-web/bancos-de-dados-e-jdbc/)
+
+Link Uncovered: https://www.caelum.com.br/apostila-java-web/bancos-de-dados-e-jdbc/
 
 # Português
 
@@ -31,6 +37,9 @@ Documentação do Java, incluindo várias API's utilizadas neste projeto.
 
 Link Descoberto: http://docs.oracle.com/javase/6/docs/api/
 
-Apostila conexão java/Banco de dados: https://www.caelum.com.br/apostila-java-web/bancos-de-dados-e-jdbc/
+###### Apostila conexão Java/Banco de dados
+Apostila da Caelum sobre conexão do Java com o Banco de Dados.
 
+[Link] (https://www.caelum.com.br/apostila-java-web/bancos-de-dados-e-jdbc/)
 
+Link Descoberto: https://www.caelum.com.br/apostila-java-web/bancos-de-dados-e-jdbc/
