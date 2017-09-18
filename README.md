@@ -21,6 +21,13 @@ Caelum's handbook on Java connection to the Database.
 
 Link Uncovered: https://www.caelum.com.br/apostila-java-web/bancos-de-dados-e-jdbc/
 
+###### Portal of Data CETIC
+Portal de data CETIC (Centro Regional de Estudos para o Desenvolvimento da Sociedade da Informação).
+
+[Link](http://data.cetic.br/cetic/explore?idPesquisa=TIC_EMP)
+
+Link Descoberto: http://data.cetic.br/cetic/explore?idPesquisa=TIC_EMP
+
 # Português
 
 ## TCC-SIAE
@@ -40,6 +47,13 @@ Link Descoberto: http://docs.oracle.com/javase/6/docs/api/
 ###### Apostila conexão Java/Banco de dados
 Apostila da Caelum sobre conexão do Java com o Banco de Dados.
 
-[Link] (https://www.caelum.com.br/apostila-java-web/bancos-de-dados-e-jdbc/)
+[Link](https://www.caelum.com.br/apostila-java-web/bancos-de-dados-e-jdbc/)
 
 Link Descoberto: https://www.caelum.com.br/apostila-java-web/bancos-de-dados-e-jdbc/
+
+###### Portal de Dados CETIC
+Portal de dados do CETIC (Centro Regional de Estudos para o Desenvolvimento da Sociedade da Informação).
+
+[Link](http://data.cetic.br/cetic/explore?idPesquisa=TIC_EMP)
+
+Link Descoberto: http://data.cetic.br/cetic/explore?idPesquisa=TIC_EMP
